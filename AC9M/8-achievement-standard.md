@@ -1,6 +1,7 @@
 # Achievement standard: Year 8
 
-By the end of Year 8, students recognise irrational numbers and terminating or recurring decimals.
+By the end of Year 8,
+students recognise irrational numbers and terminating or recurring decimals.
 They apply the exponent laws to calculations with numbers involving positive integer exponents.
 Students solve problems involving the 4 operations with integers and positive rational numbers.
 They use mathematical modelling to solve practical problems involving ratios, percentages and rates in measurement and financial contexts.

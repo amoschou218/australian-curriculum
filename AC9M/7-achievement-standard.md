@@ -1,6 +1,7 @@
 # Achievement standard: Year 7
 
-By the end of Year 7, students represent natural numbers in expanded form and as products of prime factors, using exponent notation.
+By the end of Year 7,
+students represent natural numbers in expanded form and as products of prime factors, using exponent notation.
 They solve problems involving squares of numbers and square roots of perfect square numbers.
 Students solve problems involving addition and subtraction of integers.
 They use all 4 operations in calculations involving positive fractions and decimals, choosing efficient calculation strategies.
