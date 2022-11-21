@@ -1,0 +1,21 @@
+AC9MAS8A0|A0|By the end of Year 8,
+AC9MAS8A1|A1|Students recognise irrational numbers and terminating or recurring decimals.
+AC9MAS8A2|A2|They apply the exponent laws to calculations with numbers involving positive integer exponents.
+AC9MAS8A3|A3|Students solve problems involving the 4 operations with integers and positive rational numbers.
+AC9MAS8A4|A4|They use mathematical modelling to solve practical problems involving ratios, percentages and rates in measurement and financial contexts.
+AC9MAS8A5|A5|Students apply algebraic properties to rearrange, expand and factorise linear expressions.
+AC9MAS8A6|A6|They graph linear relations and solve linear equations with rational solutions and one-variable inequalities, graphically and algebraically.
+AC9MAS8A7|A7|Students use mathematical modelling to solve problems using linear relations, interpreting and reviewing the model in context.
+AC9MAS8A8|A8|They make and test conjectures involving linear relations using digital tools.
+AC9MAS8B1|B1|Students use appropriate metric units when solving measurement problems involving the perimeter and area of composite shapes, and volume of right prisms.
+AC9MAS8B2|B2|They use Pythagoras’ theorem to solve measurement problems involving unknown lengths of right-angle triangles.
+AC9MAS8B3|B3|Students use formulas to solve problems involving the area and circumference of circles.
+AC9MAS8B4|B4|They solve problems of duration involving 12- and 24-hour cycles across multiple time zones.
+AC9MAS8B5|B5|Students use 3 dimensions to locate and describe position.
+AC9MAS8B6|B6|They identify conditions for congruency and similarity in shapes and create and test algorithms designed to test for congruency and similarity.
+AC9MAS8B7|B7|Students apply the properties of quadrilaterals to solve problems.
+AC9MAS8C1|C1|They conduct statistical investigations and explain the implications of obtaining data through sampling.
+AC9MAS8C2|C2|Students analyse and describe the distribution of data.
+AC9MAS8C3|C3|They compare the variation in distributions of random samples of the same and different size from a given population with respect to shape, measures of central tendency and range.
+AC9MAS8C4|C4|Students represent the possible combinations of 2 events with tables and diagrams, and determine related probabilities to solve practical problems.
+AC9MAS8C5|C5|They conduct experiments and simulations using digital tools to determine related probabilities of compound events.
