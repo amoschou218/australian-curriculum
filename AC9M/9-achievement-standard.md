@@ -52,7 +52,7 @@ They design and conduct experiments or simulations for combined events using dig
 |  AC9M9P02 |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  • |  • |
 |  AC9M9P03 |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  • |
 
-|           | A1 | A2 | A3 | A4 | A5 | A6 | A7 |
+| Number and algebra | A1 | A2 | A3 | A4 | A5 | A6 | A7 |
 |-----------|----|----|----|----|----|----|----|
 |  AC9M9N01 |  • |    |    |    |    |    |    |
 |  AC9M9A01 |    |  • |    |    |    |    |    |
@@ -62,7 +62,7 @@ They design and conduct experiments or simulations for combined events using dig
 |  AC9M9A05 |    |    |    |    |  • |    |    |
 |  AC9M9A06 |    |    |    |    |    |    |  • |
 
-|           | B1 | B2 | B3 | B4 | B5 | B6 | B7 | B8 |
+| Measurement and space | B1 | B2 | B3 | B4 | B5 | B6 | B7 | B8 |
 |-----------|----|----|----|----|----|----|----|----|
 |  AC9M9M01 |  • |    |    |    |    |    |    |    |
 |  AC9M9M02 |    |    |    |    |    |  • |    |    |
@@ -73,7 +73,7 @@ They design and conduct experiments or simulations for combined events using dig
 | AC9M9SP02 |    |    |    |    |  • |    |  • |    |
 | AC9M9SP03 |    |    |    |    |    |    |    |  • |
 
-|           | C1 | C2 | C3 | C4 | C5 |
+| Statistics and probability | C1 | C2 | C3 | C4 | C5 |
 |-----------|----|----|----|----|----|
 | AC9M9ST01 |    |  • |    |    |    |
 | AC9M9ST02 |    |  • |    |    |    |
