@@ -26,7 +26,7 @@ They conduct repeated single-step chance experiments and run simulations using d
 
 ## Links to content descriptions
 
-|           | A1 | A2 | A3 | A4 | A5 | A6 | A7 | A8 | A9 | B1 | B2 | B3 | B4 | B5 | B6 | C1 | C2 | C3 | C4 | C5 |
+|           | A1 | A2 | A3 | A4 | A5 | A6*| A7 | A8 | A9 | B1 | B2*| B3 | B4 | B5 | B6 | C1 | C2 | C3 | C4 | C5 |
 |-----------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 |  AC9M7N01 |    |  • |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 |  AC9M7N02 |  • |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
@@ -59,7 +59,7 @@ They conduct repeated single-step chance experiments and run simulations using d
 |  AC9M7P01 |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  • |  • |
 |  AC9M7P02 |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  • |
 
-|  Number and algebra | A1 | A2 | A3 | A4 | A5 | A6 | A7 | A8 | A9 | B2 |
+|  Number and algebra | A1 | A2 | A3 | A4 | A5 | A6*| A7 | A8 | A9 | B2*|
 |-----------|----|----|----|----|----|----|----|----|----|----|
 |  AC9M7N01 |    |  • |    |    |    |    |    |    |    |    |
 |  AC9M7N02 |  • |    |    |    |    |    |    |    |    |    |
@@ -77,7 +77,7 @@ They conduct repeated single-step chance experiments and run simulations using d
 |  AC9M7A05 |    |    |    |    |    |    |    |    |  • |    |
 |  AC9M7A06 |    |    |    |    |    |    |  • |    |    |    |
 
-|  Number   | A1 | A2 | A3 | A4 | A5 | A6 |
+|  Number   | A1 | A2 | A3 | A4 | A5 | A6*|
 |-----------|----|----|----|----|----|----|
 |  AC9M7N01 |    |  • |    |    |    |    |
 |  AC9M7N02 |  • |    |    |    |    |    |
@@ -89,7 +89,7 @@ They conduct repeated single-step chance experiments and run simulations using d
 |  AC9M7N08 |    |    |    |    |    |  • |
 |  AC9M7N09 |    |    |    |    |    |  • |
 
-| Algebra   | A7 | A8 | A9 | B2 |
+| Algebra   | A7 | A8 | A9 | B2*|
 |-----------|----|----|----|----|
 |  AC9M7A01 |  • |    |    |  • |
 |  AC9M7A02 |  • |    |    |    |
@@ -98,7 +98,7 @@ They conduct repeated single-step chance experiments and run simulations using d
 |  AC9M7A05 |    |    |  • |    |
 |  AC9M7A06 |  • |    |    |    |
 
-| Measurement and space | A6 | B1 | B2 | B3 | B4 | B5 | B6 |
+| Measurement and space | A6*| B1 | B2*| B3 | B4 | B5 | B6 |
 |-----------|----|----|----|----|----|----|----|
 |  AC9M7M01 |    |    |  • |    |    |    |    |
 |  AC9M7M02 |    |    |  • |    |    |    |    |
@@ -111,7 +111,7 @@ They conduct repeated single-step chance experiments and run simulations using d
 | AC9M7SP03 |    |    |    |    |    |    |  • |
 | AC9M7SP04 |    |    |    |    |  • |    |    |
 
-| Measurement | A6 | B1 | B2 | B3 |
+| Measurement | A6*| B1 | B2*| B3 |
 |-------------|----|----|----|----|
 |    AC9M7M01 |    |    |  • |    |
 |    AC9M7M02 |    |    |  • |    |
@@ -145,5 +145,3 @@ They conduct repeated single-step chance experiments and run simulations using d
 |-------------|----|----|
 |    AC9M7P01 |  • |  • |
 |    AC9M7P02 |    |  • |
-
-
