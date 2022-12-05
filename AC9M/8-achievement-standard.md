@@ -26,7 +26,7 @@ They conduct experiments and simulations using digital tools to determine relate
 
 ## Links to content descriptions
 
-|           | A1 | A2 | A3 | A4 | A5 | A6 | A7 | A8 | B1 | B2 | B3 | B4 | B5 | B6 | B7 | C1 | C2 | C3 | C4 | C5 |
+|           | A1*| A2 | A3 | A4*| A5 | A6 | A7 | A8 | B1*| B2 | B3*| B4 | B5 | B6 | B7 | C1 | C2 | C3 | C4 | C5 |
 |-----------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 |  AC9M8N01 |  • |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 |  AC9M8N02 |    |  • |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
@@ -56,7 +56,7 @@ They conduct experiments and simulations using digital tools to determine relate
 |  AC9M8P02 |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  • |  • |
 |  AC9M8P03 |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  • |
 
-| Number and algebra | A1 | A2 | A3 | A4 | A5 | A6 | A7 | A8 | B1 | B3 |
+| Number and algebra | A1*| A2 | A3 | A4*| A5 | A6 | A7 | A8 | B1*| B3*|
 |-----------|----|----|----|----|----|----|----|----|----|----|
 |  AC9M8N01 |  • |    |    |    |    |    |    |    |    |    |
 |  AC9M8N02 |    |  • |    |    |    |    |    |    |    |    |
@@ -68,7 +68,7 @@ They conduct experiments and simulations using digital tools to determine relate
 |  AC9M8A03 |    |    |    |    |    |    |  • |    |    |    |
 |  AC9M8A04 |    |    |    |    |    |    |    |  • |    |    |
 
-| Number    | A1 | A2 | A3 | A4 | B1 | B3 |
+| Number    | A1*| A2 | A3 | A4*| B1*| B3*|
 |-----------|----|----|----|----|----|----|
 |  AC9M8N01 |  • |    |    |    |    |    |
 |  AC9M8N02 |    |  • |    |    |    |    |
@@ -83,7 +83,7 @@ They conduct experiments and simulations using digital tools to determine relate
 |  AC9M8A03 |    |    |  • |    |
 |  AC9M8A04 |    |    |    |  • |
 
-| Measurement and space | A1 | A4 | B1 | B2 | B3 | B4 | B5 | B6 | B7 |
+| Measurement and space | A1*| A4*| B1*| B2 | B3*| B4 | B5 | B6 | B7 |
 |-----------|----|----|----|----|----|----|----|----|----|
 |  AC9M8M01 |    |    |  • |    |    |    |    |    |    |
 |  AC9M8M02 |    |    |  • |    |    |    |    |    |    |
@@ -97,7 +97,7 @@ They conduct experiments and simulations using digital tools to determine relate
 | AC9M8SP03 |    |    |    |    |    |    |  • |    |    |
 | AC9M8SP04 |    |    |    |    |    |    |    |  • |    |
 
-| Measurement | A1 | A4 | B1 | B2 | B3 | B4 |
+| Measurement | A1*| A4*| B1*| B2 | B3*| B4 |
 |-------------|----|----|----|----|----|----|
 |    AC9M8M01 |    |    |  • |    |    |    |
 |    AC9M8M02 |    |    |  • |    |    |    |
@@ -136,4 +136,3 @@ They conduct experiments and simulations using digital tools to determine relate
 |    AC9M8P01 |  • |  • |
 |    AC9M8P02 |  • |  • |
 |    AC9M8P03 |    |  • |
-
