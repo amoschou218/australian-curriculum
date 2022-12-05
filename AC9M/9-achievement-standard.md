@@ -26,7 +26,7 @@ They design and conduct experiments or simulations for combined events using dig
 
 ## Links to content descriptions
 
-|           | A1 | A2 | A3 | A4 | A5 | A6 | A7 | B1 | B2 | B3 | B4 | B5 | B6 | B7 | B8 | C1 | C2 | C3 | C4 | C5 |
+|           | A1 | A2 | A3 | A4 | A5 | A6 | A7 | B1 | B2 | B3 | B4*| B5*| B6 | B7 | B8 | C1 | C2 | C3 | C4 | C5 |
 |-----------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 |  AC9M9N01 |  • |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 |  AC9M9A01 |    |  • |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
@@ -75,7 +75,7 @@ They design and conduct experiments or simulations for combined events using dig
 |  AC9M9A05 |    |    |    |  • |    |    |
 |  AC9M9A06 |    |    |    |    |    |  • |
 
-| Measurement and space | B1 | B2 | B3 | B4 | B5 | B6 | B7 | B8 |
+| Measurement and space | B1 | B2 | B3 | B4*| B5*| B6 | B7 | B8 |
 |-----------|----|----|----|----|----|----|----|----|
 |  AC9M9M01 |  • |    |    |    |    |    |    |    |
 |  AC9M9M02 |    |    |    |    |    |  • |    |    |
@@ -86,7 +86,7 @@ They design and conduct experiments or simulations for combined events using dig
 | AC9M9SP02 |    |    |    |    |  • |    |  • |    |
 | AC9M9SP03 |    |    |    |    |    |    |    |  • |
 
-| Measurement | B1 | B2 | B3 | B4 | B5 | B6 |
+| Measurement | B1 | B2 | B3 | B4*| B5*| B6 |
 |-------------|----|----|----|----|----|----|
 |    AC9M9M01 |  • |    |    |    |    |    |
 |    AC9M9M02 |    |    |    |    |    |  • |
@@ -94,7 +94,7 @@ They design and conduct experiments or simulations for combined events using dig
 |    AC9M9M04 |    |    |  • |    |    |    |
 |    AC9M9M05 |    |    |    |    |  • |    |
 
-| Space     | B4 | B5 | B7 | B8 |
+| Space     | B4*| B5*| B7 | B8 |
 |-----------|----|----|----|----|
 | AC9M9SP01 |  • |  • |    |    |
 | AC9M9SP02 |    |  • |  • |    |
@@ -124,6 +124,3 @@ They design and conduct experiments or simulations for combined events using dig
 |    AC9M9P01 |  • |  • |  • |
 |    AC9M9P02 |    |  • |  • |
 |    AC9M9P03 |    |    |  • |
-
-
-
