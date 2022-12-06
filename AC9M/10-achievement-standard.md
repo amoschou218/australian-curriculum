@@ -60,7 +60,7 @@ Students design and conduct simulations involving conditional probability, using
 |------------|----|
 |  AC9M10N01 |  • |
 
-| Algebnra   | A2 | A3 | A4 |
+| Algebra    | A2 | A3 | A4 |
 |------------|----|----|----|
 |  AC9M10A01 |  • |    |    |
 |  AC9M10A02 |    |    |  • |
