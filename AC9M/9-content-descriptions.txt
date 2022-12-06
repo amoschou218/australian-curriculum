@@ -19,5 +19,5 @@ Mathematics|Year 9|Statistics|03|AC9M9ST03||represent the distribution of multip
 Mathematics|Year 9|Statistics|04|AC9M9ST04||choose appropriate forms of display or visualisation for a given type of data; justify selections and interpret displays for a given context
 Mathematics|Year 9|Statistics|05|AC9M9ST05||plan and conduct statistical investigations involving the collection and analysis of different kinds of data; report findings and discuss the strength of evidence to support any conclusions
 Mathematics|Year 9|Probability|01|AC9M9P01||list all outcomes for compound events both with and without replacement, using lists, tree diagrams, tables or arrays; assign probabilities to outcomes
-Mathematics|Year 9|Probability|02|AC9M9P02||calculate relative frequencies from given or collected data to estimate probabilities of events involving “and”, inclusive “or” and exclusive “or”
+Mathematics|Year 9|Probability|02|AC9M9P02|*|calculate relative frequencies from given or collected data to estimate probabilities of events involving ‘and’, inclusive ‘or’ and exclusive ‘or’
 Mathematics|Year 9|Probability|03|AC9M9P03||design and conduct repeated chance experiments and simulations, using digital tools to compare probabilities of simple events to related compound events, and describe results
