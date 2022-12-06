@@ -8,7 +8,7 @@ simplification of combinations of linear expressions with rational coefficients 
 
 algebraic representations of quadratic functions of the form $f(x) = ax^2 + bx + c$ where $a$, $b$ and $c$ are non-zero integers, and their transformation to the form $f(x) = a(x+h)^2 + k$ where $h$ and $k$  are non-zero rational numbers, and the solution of related equations
 
-the graphs of $y = sin x$ and $y = cos x$ as functions of a real variable and the solution of related equations
+the graphs of $y = \sin x$ and $y = \cos x$ as functions of a real variable and the solution of related equations
 
 the inverse relationship between exponential functions and logarithmic functions and the solution of related equations
 
