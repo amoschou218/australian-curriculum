@@ -1,4 +1,6 @@
-NUMBER
+# Optional content for post-year 10 Mathematics pathways
+
+## Number
 
 operations on numbers involving fractional exponents and surds
 
@@ -10,19 +12,19 @@ the graphs of $y = sin x$ and $y = cos x$ as functions of a real variable and th
 
 the inverse relationship between exponential functions and logarithmic functions and the solution of related equations
 
-MEASUREMENT
+## Measurement
 
 the effect of increasingly small changes in the value of variables on the average rate of change and in relation to limiting values
 
-SPACE
+## Space
 
 relationships between angles and various lines associated with circles (radii, diameters, chords, tangents)
 
-STATISTICS
+## Statistics
 
 measures of spread, their interpretation and usefulness with respect to different data distributions
 
-PROBABILITY
+## Probability
 
 counting principles, and factorial notation as a representation that provides efficient counting in multiplicative contexts, including calculations of probabilities
 
