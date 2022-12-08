@@ -1,5 +1,6 @@
 # Achievement standard: Year 10
 
+<details><summary>Expand/collapse</summary>
 By the end of Year 10,
 students recognise the effect of approximations of real numbers in repeated calculations.
 They use mathematical modelling to solve problems involving growth and decay in financial and other applied situations, applying linear, quadratic and exponential functions as appropriate, and solve related equations, numerically and graphically.
@@ -20,8 +21,11 @@ They analyse inferences and conclusions in the media, noting potential sources o
 Students compare the distribution of continuous numerical data using various displays, and discuss distributions in terms of centre, spread, shape and outliers.
 They apply conditional probability to solve problems involving compound events.
 Students design and conduct simulations involving conditional probability, using digital tools.
+</details>
 
 ## Links to content descriptions
+
+<details><summary>Expand/collapse (All strands)</summary>
 
 |            | A1*| A2 | A3 | A4 | B1 | B2 | B3 | B4 | B5 | B6 | B7 | C1 | C2 | C3 | C4 | C5 | C6 |
 |------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
@@ -46,6 +50,9 @@ Students design and conduct simulations involving conditional probability, using
 | AC9M10ST05 |    |    |    |    |    |    |    |    |    |    |    |  • |    |    |    |    |    |
 |  AC9M10P01 |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  • |  • |
 |  AC9M10P02 |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  • |  • |
+</details>
+
+<details><summary>Expand/collapse (Strands: Number and algebra)</summary>
 
 | Number and algebra | A1*| A2 | A3 | A4 |
 |------------|----|----|----|----|
@@ -55,10 +62,16 @@ Students design and conduct simulations involving conditional probability, using
 |  AC9M10A03 |    |  • |    |    |
 |  AC9M10A04 |    |  • |    |    |
 |  AC9M10A05 |    |    |  • |    |
+</details>
+
+<details><summary>Expand/collapse (Strand: Number)</summary>
 
 | Number     | A1*|
 |------------|----|
 |  AC9M10N01 |  • |
+</details>
+
+<details><summary>Expand/collapse (Strands: Algebra)</summary>
 
 | Algebra    | A2 | A3 | A4 |
 |------------|----|----|----|
@@ -67,6 +80,9 @@ Students design and conduct simulations involving conditional probability, using
 |  AC9M10A03 |  • |    |    |
 |  AC9M10A04 |  • |    |    |
 |  AC9M10A05 |    |  • |    |
+</details>
+
+<details><summary>Expand/collapse (Strands: Measurement and space)</summary>
 
 | Measurement and space | A1*| B1 | B2 | B3 | B4 | B5 | B6 | B7 |
 |------------|----|----|----|----|----|----|----|----|
@@ -78,6 +94,9 @@ Students design and conduct simulations involving conditional probability, using
 | AC9M10SP01 |    |    |    |    |    |    |  • |    |
 | AC9M10SP02 |    |    |    |    |    |    |    |  • |
 | AC9M10SP03 |    |    |    |    |    |    |  • |    |
+</details>
+
+<details><summary>Expand/collapse (Strands: Measurement)</summary>
 
 | Measurement | A1*| B1 | B2 | B3 | B4 | B5 |
 |-------------|----|----|----|----|----|----|
@@ -86,12 +105,18 @@ Students design and conduct simulations involving conditional probability, using
 |   AC9M10M03 |  • |    |    |  • |    |    |
 |   AC9M10M04 |    |    |    |    |  • |    |
 |   AC9M10M05 |    |    |    |    |    |  • |
+</details>
+
+<details><summary>Expand/collapse (Strands: Space)</summary>
 
 | Space      | B6 | B7 |
 |------------|----|----|
 | AC9M10SP01 |  • |    |
 | AC9M10SP02 |    |  • |
 | AC9M10SP03 |  • |    |
+</details>
+
+<details><summary>Expand/collapse (Strands: Statistics and probability)</summary>
 
 | Statistics and probability | C1 | C2 | C3 | C4 | C5 | C6 |
 |------------|----|----|----|----|----|----|
@@ -102,6 +127,9 @@ Students design and conduct simulations involving conditional probability, using
 | AC9M10ST05 |  • |    |    |    |    |    |
 |  AC9M10P01 |    |    |    |    |  • |  • |
 |  AC9M10P02 |    |    |    |    |  • |  • |
+</details>
+
+<details><summary>Expand/collapse (Strands: Statistics)</summary>
 
 | Statistics | C1 | C2 | C3 | C4 |
 |------------|----|----|----|----|
@@ -110,9 +138,13 @@ Students design and conduct simulations involving conditional probability, using
 | AC9M10ST03 |  • |  • |    |  • |
 | AC9M10ST04 |  • |  • |    |    |
 | AC9M10ST05 |  • |    |    |    |
+</details>
+
+<details><summary>Expand/collapse (Strands: Probability)</summary>
 
 | Probability | C5 | C6 |
 |-------------|----|----|
 |   AC9M10P01 |  • |  • |
 |   AC9M10P02 |  • |  • |
+</details>
 
