@@ -49,8 +49,8 @@
     </td>
     <td>
       <ul>
-        <li>explain how scientific knowledge is validated and refined, including the role of publication and peer review</li>
-        <li>investigate how advances in technologies enable advances in science, and how science has contributed to developments in technologies and engineering</li>
+        <li>(H1) explain how scientific knowledge is validated and refined, including the role of publication and peer review</li>
+        <li>(H1) investigate how advances in technologies enable advances in science, and how science has contributed to developments in technologies and engineering</li>
       </ul>
     </td>
     <td>
@@ -61,8 +61,8 @@
     </td>
     <td>
       <ul>
-        <li>analyse the key factors that contribute to science knowledge and practices being adopted more broadly by society</li>
-        <li>examine how the values and needs of society influence the focus of scientific research</li>
+        <li>(H3) analyse the key factors that contribute to science knowledge and practices being adopted more broadly by society</li>
+        <li>(H4) examine how the values and needs of society influence the focus of scientific research</li>
       </ul>
     </td>
   </tr>
