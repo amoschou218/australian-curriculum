@@ -50,7 +50,7 @@
     <td>
       <ul>
         <li>(H1) explain how scientific knowledge is validated and refined, including the role of publication and peer review</li>
-        <li>(H1) investigate how advances in technologies enable advances in science, and how science has contributed to developments in technologies and engineering</li>
+        <li>(H2) investigate how advances in technologies enable advances in science, and how science has contributed to developments in technologies and engineering</li>
       </ul>
     </td>
     <td>
